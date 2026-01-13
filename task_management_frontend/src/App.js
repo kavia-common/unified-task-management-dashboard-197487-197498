@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <span>Hello world</span>
       <header className="App-header">
         <button 
           className="theme-toggle" 
